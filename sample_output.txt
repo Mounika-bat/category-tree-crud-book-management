@@ -1,0 +1,34 @@
+Category Tree CRUD for Book Management - Sample Output
+
+1.Add Category 2.Delete Category 3.Update Category 4.Search 5.Display
+6.Exit
+
+Enter choice: 1 Enter parent category: Books Enter new category: Fiction
+Added successfully!
+
+Enter choice: 1 Enter parent category: Fiction Enter new category: Novel
+Added successfully!
+
+Enter choice: 1 Enter parent category: Books Enter new category:
+Education Added successfully!
+
+Enter choice: 5
+
+Category Tree: - Books - Fiction - Novel - Education
+
+Enter choice: 4 Enter category to search: Novel Found!
+
+Enter choice: 3 Enter old name: Novel Enter new name: StoryBooks Updated
+successfully!
+
+Enter choice: 5
+
+Category Tree: - Books - Fiction - StoryBooks - Education
+
+Enter choice: 2 Enter category to delete: Education Deleted (if existed)
+
+Enter choice: 5
+
+Category Tree: - Books - Fiction - StoryBooks
+
+Enter choice: 6 Program exited successfully.
