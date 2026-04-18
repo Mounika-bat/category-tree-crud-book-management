@@ -8,8 +8,7 @@
 
 Mounika
 
-nitya
-
+Nitya
 
 🎯 Problem Statement
 
