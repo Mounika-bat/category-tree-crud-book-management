@@ -208,3 +208,29 @@ Improve delete operation
 Data Structures in C – Books & Notes
 
 Online tutorials and documentation
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-24 235751" src="https://github.com/user-attachments/assets/96cd0aa9-b886-4fd4-8baa-5708051f31d0" />
+
+
+
+
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-24 235812" src="https://github.com/user-attachments/assets/d41d78f7-1a90-41e9-96bf-50405b52fefb" />
+
+
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-24 235850" src="https://github.com/user-attachments/assets/9989f172-cbe5-44df-aca0-b8ba680db3c1" />
+
+
+
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-04-24 235859" src="https://github.com/user-attachments/assets/e57b65e8-2891-4515-b755-41b598401588" />
+
+
+
+
+
